@@ -1,6 +1,6 @@
 flask
 flask-cors
-iqoptionapi-v2
+git+https://github.com/LuizSilva-Dev/iqoptionapi.git
 pytz
 gunicorn
 websocket-client==0.56.0
