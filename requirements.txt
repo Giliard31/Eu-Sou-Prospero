@@ -1,5 +1,5 @@
 flask
 flask-cors
-iqoptionapi
+git+https://github.com/LuizSilva-Dev/iqoptionapi.git
 pytz
 gunicorn
